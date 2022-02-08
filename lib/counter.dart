@@ -1,3 +1,7 @@
+/*
+Dummy class for easy testing :D 
+ */
+
 class Counter {
   int value = 0;
 
