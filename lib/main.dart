@@ -31,9 +31,9 @@ class QuizAppBody extends StatefulWidget {
 class _QuizAppBodyState extends State<QuizAppBody> {
   int i = 0;
   List<Item> items = [
-    new Item(question: "Lieblingsfarbe", answers: ["blau", "gruen", "gelb"]),
-    new Item(question: "Lieblingshobby", answers: ["Sport", "Bier"]),
-    new Item(question: "question3", answers: ["d", "e", "f"])
+    new Item(question: "Lieblingsfirma", answers: ["webCom", "fi", "ibm"]),
+    new Item(question: "Lieblings-ide", answers: ["Intelij", "Eclipse", "AndroidStudio"]),
+    new Item(question: "Lieblingsband", answers: ["beatles", "ac/dc", "green day"])
   ];
 
   void click() {
