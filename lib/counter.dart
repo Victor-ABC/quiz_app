@@ -1,5 +1,5 @@
 /*
-Dummy class for easy testing :D 
+Dummy class for easy testing :D
  */
 
 class Counter {
